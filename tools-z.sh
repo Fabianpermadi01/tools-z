@@ -87,6 +87,7 @@ echo
 3) git clone https://github.com/Tuhinshubhra/RED_HAWK
 echo -e "${y} Installer RED_HAWK..."
 echo -e "${y} cd RED_HAWK"
+echo -e "${y} php RED_HAWK.php"
 cd /data/data/com.termux/files/home/RED_HAWK/
 php /data/data/com.termux/files/home/RED_HAWK/ RED_HA>
 
